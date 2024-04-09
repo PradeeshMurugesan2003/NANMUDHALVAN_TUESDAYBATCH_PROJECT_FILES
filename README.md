@@ -1,16 +1,16 @@
 # NANMUDHALVAN_TUESDAYBATCH_PROJECT_FILES
 
-PROJECT CREATED BY : 
+PROJECT CREATED BY : Pradeesh M
 
 
 
 LOGIN DETAILS:
 
 
-UNAME: admin
+UNAME: admin2
 
 
-Password:admin
+Password:Pradeesh
 
 
 
